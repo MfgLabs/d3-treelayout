@@ -1,0 +1,13 @@
+{
+  "name": "d3-treelayout",
+  "version": "0.0.0",
+  "author" : "mbostock/d3",
+  "main": "./d3.treelayout.standalone.js",
+  "ignore": [
+    "*.txt",
+    "LICENCE",
+    "README.md"
+  ],
+  "dependencies": {
+  }
+}
